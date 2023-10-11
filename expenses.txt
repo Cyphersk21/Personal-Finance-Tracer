@@ -1,0 +1,2 @@
+Grocery,1000.0
+Dinner,599.0
